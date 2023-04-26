@@ -1,0 +1,32 @@
+# Introduction
+
+This directory contains a script for the identification of potential DDR candidate
+genes from IID and Gene Onthology.
+
+# Reproducing
+
+## Requirements
+
+in order to reproduce the results you will need, in this folder:
+
+  - a copy of the human integrated interactions database (IID) released on 05-2018 (iid.human.2018-05.txt)
+  - a go.obo onthology definition file (the one we used was generated on 2018-10-24)
+  - a goa_human.gaf human onthology file (the one we used was generated on 2018-05-22)
+  - Python 2.7 with the following packages:
+    - pandas
+    - Biopython
+    - goatools
+
+we last reproduced these results code using the following package versions: 
+
+pandas 0.24.2
+goatools 0.0.0
+biopython 1.75
+
+## Running
+
+from inside this folder, just run the following:
+
+```
+python do_iid.py
+```
