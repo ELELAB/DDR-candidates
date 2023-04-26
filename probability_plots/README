@@ -1,0 +1,30 @@
+# Introduction
+
+This directory contains script and data to generate plots to represent
+... as per paper figure 1g-j,l-o.
+
+# Reproducing
+
+## Requirements
+
+In order to redo the plotting, you will need:
+
+  - R
+  - R packages igraph, extrafont, graphics, pracma
+  - the Arial font installed on your system (e.g. via the msttcorefonts 
+    Debian/Ubuntu package)
+
+we last tested this script with 
+  - R 4.2
+  - pracma 2.4.2
+  - extrafont 0.19
+  -igraph 1.4.2
+
+## Running
+
+from inside the folder, just run:
+
+```
+Rscript do.R
+```
+
