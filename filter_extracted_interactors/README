@@ -1,0 +1,28 @@
+# Introduction
+
+This directory contain filtering for housekeeping genes and the Crapome database
+of the 441 candidate gene pairs. 
+
+# Reproducing
+
+## Requirements
+
+in order to reproduce the analysis you will need:
+  - Python 2.7 with the following packages:
+    - pandas
+    - Biopython
+    - goatools
+
+we last reproduced these results code using the following package versions:
+
+pandas 0.24.2
+goatools 0.0.0
+biopython 1.75
+
+## Running
+
+just run:
+
+```
+python do_filter.py
+```
