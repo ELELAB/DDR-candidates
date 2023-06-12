@@ -12,8 +12,8 @@ GO terms
 in order to reproduce the results you will need:
 
   - a Linux system (we used Ubuntu Server 18.04)
-  - R 3.5 with packages TCGAbiolinks 2.10.5, SummarizedExperiment, recount,
-    TCGAutils, biomaRt
+  - R 3.5 with packages TCGAbiolinks (2.10.5), SummarizedExperiment 1.12.0, recount 1.8.2,
+    TCGAutils (1.2.2), biomaRt (2.38.0)
   - Python 2.7.15 with pandas (0.24.2), Biopython (1.75), goatools (0.0.0)
 
 ## Running
