@@ -9,16 +9,11 @@ paper figure 1 panels g-j,l-o.
 
 In order to redo the plotting, you will need:
 
-  - R
-  - R packages igraph, extrafont, graphics, pracma
+  - a Linux system (We used a server with Ubuntu Server 18.04)
+  - R 4.2
+  - R packages igraph (1.4.2), extrafont (0.19), graphics, pracma (2.4.2)
   - the Arial font installed on your system (e.g. via the msttcorefonts 
     Debian/Ubuntu package)
-
-we last tested this script with 
-  - R 4.2
-  - pracma 2.4.2
-  - extrafont 0.19
-  - igraph 1.4.2
 
 ## Running
 
@@ -28,3 +23,5 @@ from inside the folder, just run:
 Rscript do.R
 ```
 
+this will generate a set of pdf files, each containing a different panel.
+The runtime is up to minutes.
