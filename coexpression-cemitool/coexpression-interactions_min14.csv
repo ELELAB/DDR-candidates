@@ -1,0 +1,8 @@
+,dbs,evidence type,methods,ntissues,pmids,symbol1,symbol2,uniprot1,uniprot2
+0,,exp,coexpression,0,,C1QB,C1QB,xxxxxx,xxxxxx
+1,,exp,coexpression,0,,C1QA,C1QB,xxxxxx,xxxxxx
+2,,exp,coexpression,0,,C1QC,C1QC,xxxxxx,xxxxxx
+3,,exp,coexpression,0,,C1QB,C1QC,xxxxxx,xxxxxx
+4,,exp,coexpression,0,,CD68,CD68,xxxxxx,xxxxxx
+5,,exp,coexpression,0,,C1QA,C1QC,xxxxxx,xxxxxx
+6,,exp,coexpression,0,,C1QA,C1QA,xxxxxx,xxxxxx

@@ -1,0 +1,18 @@
+,dbs,evidence type,methods,ntissues,pmids,symbol1,symbol2,uniprot1,uniprot2
+0,,exp,coexpression,0,,C1QB,C1QB,xxxxxx,xxxxxx
+1,,exp,coexpression,0,,C1QA,C1QB,xxxxxx,xxxxxx
+2,,exp,coexpression,0,,C1QC,C1QC,xxxxxx,xxxxxx
+3,,exp,coexpression,0,,SLC2A3,SLC2A3,xxxxxx,xxxxxx
+4,,exp,coexpression,0,,C1QB,C1QC,xxxxxx,xxxxxx
+5,,exp,coexpression,0,,CD68,CD68,xxxxxx,xxxxxx
+6,,exp,coexpression,0,,SCD,SCD,xxxxxx,xxxxxx
+7,,exp,coexpression,0,,SERPINA3,SERPINA3,xxxxxx,xxxxxx
+8,,exp,coexpression,0,,CCN2,CCN2,xxxxxx,xxxxxx
+9,,exp,coexpression,0,,MS4A6A,MS4A6A,xxxxxx,xxxxxx
+10,,exp,coexpression,0,,C1QA,C1QC,xxxxxx,xxxxxx
+11,,exp,coexpression,0,,C1QA,C1QA,xxxxxx,xxxxxx
+12,,exp,coexpression,0,,C11orf96,C11orf96,xxxxxx,xxxxxx
+13,,exp,coexpression,0,,RGS1,RGS1,xxxxxx,xxxxxx
+14,,exp,coexpression,0,,CD163,CD163,xxxxxx,xxxxxx
+15,,exp,coexpression,0,,THBS1,THBS1,xxxxxx,xxxxxx
+16,,exp,coexpression,0,,SOCS3,SOCS3,xxxxxx,xxxxxx
