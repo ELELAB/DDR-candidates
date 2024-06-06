@@ -1,0 +1,478 @@
+##Show alignment of HHblits search of human SPIDR_OB3 .
+
+(base) kensch@kbf-linux01:~$ cat "/home/kensch/Alignments/A3M files/OB_fold/SPIDR_OB3_2.a3m"
+
+>SPIDR_OB3
+ICSVQGTVVGVDESTAFSW--PVCDMCGNGRLEQR--------P---------E-----D-------------RGAFSCGDCSRVVTSPVLKRHLQVFLD
+CRS-R-P----------Q----C-RVKVKLLQRS-ISSLLRFAAGE
+>UniRef100_L7MS DUF4503 domain-containing protein (Fragment) n=3 Tax=Equus TaxID=9789 RepID=L7MSL3_HORSE
+ICSVQGTVVGVDESTAFSW--PTCDRCGNERLEQS--------P---------Q-----D-------------RGQLYCNDCSRVVTSPQLKMQLEVFLS
+CPS-R-P----------Q----C-TVKVKLLQRT-ISSLLMSSAC-
+>UniRef100_A0A0 Scaffold protein involved in DNA repair n=1 Tax=Poecilia formosa TaxID=48698 RepID=A0A096M643_POEFO
+ICSVQGTVVGVDESTAFSW--PVCDRCGNGRLEQS--------P---------E-----D-------------RGAFSCGDCSRVVTSPVLKRHLEVFLD
+CPS-R-P----------Q----C-TVKVKLLQKS-ISSLLRFAAC-
+>UniRef100_A0A0 DUF4503 domain-containing protein (Fragment) n=1 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A060Z2A5_ONCMY
+ICAVRGTVVGVNESTAFSW--PTCNRCGNGKLELC--------P---------Q-----D-------------RGLLYCNQCSEVVISPVLKMQLEVFLS
+CPS-R-P----------Q----S-TVKVKLLQRT-ISSLLMSSAS-
+>UniRef100_A0A0 SPIDR (Fragment) n=1 Tax=Cricetulus griseus TaxID=10029 RepID=A0A061I7J1_CRIGR
+ICSVQGTVVGVDESTAFSW--PVCDRCGNGRLEQS--------P---------E-----D-------------RGAFYCGDCSRVVTSPVLKMHLEVFLD
+CPS-R-P----------Q----C-TVKVKLLQRS-ISSLLRSAACE
+>UniRef100_A0A2 DUF4503 domain-containing protein n=2 Tax=Propithecus coquereli TaxID=379532 RepID=A0A2K6GF01_PROCO
+ICSVQGTVVGVDESTAFSW--PTCDLCGNERLEQS--------P---------E-----D-------------RGAFSCGDCSRVVTSPLLRRHLQVFLD
+CPS-R-P----------Q----C-TVRVKLLQSS-ISSLLRFAACE
+>UniRef100_UPI0 DNA repair-scaffolding protein n=1 Tax=Cariama cristata TaxID=54380 RepID=UPI0005202C1A
+VCAVRGTVVGVNESTAFSW--PTCDRCGNGKLELC--------P---------Q-----D-------------RGLLYCNRCSEVVISPVLKMQLEVFLS
+CPS-R-S----------Q----S-TVKVKLLQRT-ISPLLMSSANE
+>UniRef100_A0A0 DNA repair-scaffolding protein (Fragment) n=1 Tax=Aptenodytes forsteri TaxID=9233 RepID=A0A087REB0_APTFO
+LCTLRGTVVGVNESTAFSW--PTCNRCGNGKLELC--------P---------Q-----D-------------RELLYCNQCSEVVDKPVLKMQLEVFLS
+CPS-R-S----------Q----S-TVKVKLWQQMSIFSLLNSLLF-
+>UniRef100_A0A0 Scaffold protein involved in DNA repair n=2 Tax=Poecilia formosa TaxID=48698 RepID=A0A087Y8Y6_POEFO
+LCTLTGVIVGVDENTAYSW--PACNHCGSDNLEML--------A---------E-----R-------------PQNFHCVSCKSVVDKPDTKIQLEVFLS
+SSS-L-S----------N----C-TLKVKLQQKT-IMSILNTAAL-
+>UniRef100_A0A2 DUF4503 domain-containing protein (Fragment) n=1 Tax=Micrurus spixii TaxID=129469 RepID=A0A2D4NDB1_9SAUR
+ICIVQGTVVGINENTAFWW--PICNQCDNERIDQH--------P---------Q-----D-------------RGAFYCSHCCQVVTSPVFKMHLQIFLN
+CQS-Q-P----------K----C-RVKIKLLQHS-ISYLLRSAT--
+>UniRef100_A0A2 DUF4503 domain-containing protein n=1 Tax=Callipepla squamata TaxID=9009 RepID=A0A226MK80_CALSU
+----AGTVVGVNESTAFSW--PVCDRCGNGKLELY--------P---------Q-----D-------------SGLLYCNQCSEVVISPVLKMQLEVFLS
+CPS-Q-S----------Q----S-TVKVKLLQRT-ISSLLMSAANE
+>UniRef100_A0A2 DNA repair-scaffolding protein isoform X1 n=1 Tax=Enhydra lutris kenyoni TaxID=391180 RepID=A0A2Y9KDL0_ENHLU
+ICSVQGTVVGVDESTAFSW--PVCNRCGSGKLEQS--------P---------G-----D-------------RGTFYCGQCSREVTTPLLRMQLEVFLH
+CPA-R-P----------H----C-TVKVKLWQSS-ISSLLMSASR-
+>UniRef100_UPI0 DNA repair-scaffolding protein n=1 Tax=Pelecanus crispus TaxID=36300 RepID=UPI000510DA6F
+ICAVRGTVVGVNESTAFSW--PTCDRCGNGKLELC--------P---------Q-----D-------------RGSLYCNQCSEVVISPVLKMQLEVFLS
+CPS-R-S----------Q----S-TVKVKLLQRT-ISSLLMSSASE
+>UniRef100_UPI0 DNA repair-scaffolding protein n=1 Tax=Opisthocomus hoazin TaxID=30419 RepID=UPI000522CBD1
+ICAVRGTVVGVNESTAFSW--PTCDRCGNGKLELC--------P---------Q-----D-------------RGLLYCSQCSEVVTSPVLKMQLEVFLS
+CPS-R-S----------Q----S-TVKVKLLQRT-ISSLLMSSTN-
+>UniRef100_A0A8 DUF4503 domain-containing protein n=1 Tax=Mytilus galloprovincialis TaxID=29158 RepID=A0A8B6EDW5_MYTGA
+---FLGTIVGVNESTAYSW--PTCDRCGSGKLELY--------S---------Q-----D-------------SKLLYCNQCSEVVISPVTKMQMEVFLS
+CPS-R-S----------Q----S-TVKVKLLQQT-ISSLLTSSP--
+>UniRef100_A0A1 KIAA0146 n=1 Tax=Nothobranchius korthausae TaxID=1143690 RepID=A0A1A8GUH8_9TELE
+LCTVTGVIVGVDESTAYSW--PTCSHCGSDRLETR--------E---------H-----Q--------------KGFHCVSCGSVVDKPTTKMQLEVFLS
+CSS-L-S----------H----C-TVKIKLQQKT-IKSLLNSTSC-
+>UniRef100_A0A3 Microtubule-associated protein RP/EB family member 2 n=1 Tax=Anabarilius grahami TaxID=495550 RepID=A0A3N0XH24_ANAGA
+LCTVTGVVTAVDESTAFSW--PACSWCGNCKLEPS--------D---------M-----E-------------QQTFYCDECGAVVDRPAMKMQLEVFLS
+CAS-H-S----------H----C-TVKVKLQQKT-IESLLRSADS-
+>UniRef100_UPI0 uncharacterized protein LOC103597282 n=1 Tax=Galeopterus variegatus TaxID=482537 RepID=UPI0004D0A9F9
+-----GAVVGVDESTAFSW--PVCDQCGSGRLEQR--------P---------E-----D-------------RGTFYCGDCSRVVTAPVLKRHLQVFLD
+CPS-R-P----------Q----C-RVKVKLSQSS-ISSLLGLATC-
+>UniRef100_A0A7 Scaffold protein involved in DNA repair n=1 Tax=Myotis myotis TaxID=51298 RepID=A0A7J7TKM1_MYOMY
+ICSVQGTVVAVDESTAFSW--PVCDRCGSQRLEQS--------P---------E-----DSD-----------RGAFSCADCSRVVTSPGLRRHLQVFLA
+CPA-R-P----------Q----C-TVRVKLMQSS-IASILRFAAG-
+>UniRef100_A0A2 DUF4503 domain-containing protein n=1 Tax=Cervus elaphus hippelaphus TaxID=46360 RepID=A0A212CEL2_CEREH
+--VCIGTVVAVDESTACSW--PVCDLCGSERLGRS--------P---------A-----DS------------RGAFSCGDCSRVVTSPVLRRHLQVFLD
+TPS-Q-P----------Q----C-TVRVKLLQDS-ISSLLRFAACE
+>UniRef100_Q4SL (spotted green pufferfish) hypothetical protein (Fragment) n=1 Tax=Tetraodon nigroviridis TaxID=99883 RepID=Q4SLL6_TETNG
+LCSLSGVIVGVDEDTAYSW--PVCSRCRSDNLELL--------P---------R-----R-------------NDSFHCGSCESVVDKPDTRIQLEVYLS
+-SS-F-G----------D----C-TLKVKLQQKT-IESILNAAALE
+>UniRef100_A0A5 DUF4503 domain-containing protein n=1 Tax=Muntiacus muntjak TaxID=9888 RepID=A0A5N3WBE9_MUNMU
+ICSMQGTVVAVDESTACSW--PVCDLCGSERLERS--------P---------A-----DS------------RGAFSCGDCSRVVTSPVLRRHLQVFLD
+APS-Q-P----------Q----C-TVRVKLLQDS-ISSLCRFAAC-
+>UniRef100_A0A4 DNA repair-scaffolding protein n=1 Tax=Liparis tanakae TaxID=230148 RepID=A0A4Z2HJ37_9TELE
+LCSLSGVVVGVDEDTAYSW--PVCNVCGSDQLEIM--------P---------E-----D-------------CQAFVCVSCKSVVDKPTTRLQLEVFLS
+SST-S-N---------------P-TLKVKLQERS-ISSGYNNAAL-
+>UniRef100_A0A4 DNA repair-scaffolding isoform X3 n=1 Tax=Labeo rohita TaxID=84645 RepID=A0A498MVC3_LABRO
+----NGVVVAVDESTAFSW--PTCCRCESCRLETR--------E---------Q-----Q--------------KGFLCLACGAVMDEPSTMMQLEVFLS
+CSP-L-S----------H----C-TVKIKLQQKT-IKSLLNSTRC-
+>UniRef100_A0A8 DNA repair-scaffolding protein-like n=1 Tax=Acanthaster planci TaxID=133434 RepID=A0A8B8A0Q1_ACAPL
+LVSVQGVVTGVDEASAYSW--PACDTCGNDRLEAE--------T---------S-----S-------------GSQLHCGVCQRSVTSPATRMHLELFIK
+CPS-L-GQE--------E----A-VIKVQLLQSS-IEQILPPLS--
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Neolamprologus brichardi TaxID=32507 RepID=UPI001643C59D
+LCTLTGMVVGVDESTAYSW--PACNLCGSDNLELS--------A---------E-----R-------------PQKFHCVSCKSAVDKPHTKTQLEVFLT
+SSS-L-S----------N----C-TMKVKVRT--------------
+>UniRef100_A0A4 DUF4503 domain-containing protein n=1 Tax=Anas platyrhynchos platyrhynchos TaxID=8840 RepID=A0A493TBM7_ANAPP
+-------------------------ICGNGKLCKF--------P---------S-----S-------------SGLLYCNQCSEVVISPVLKMQLEVFLS
+CPS-R-P----------Q----S-TVKVKLLQRT-ISSLLMSAASE
+>UniRef100_A0A4 Scaffold protein involved in DNA repair n=1 Tax=Electrophorus electricus TaxID=8005 RepID=A0A4W4FC23_ELEEL
+LCTLTGEVVGVDEDSAYSW--LSCRQCGSDRLEAQ--------Q---------K-----Q-------------QEVFLCAECGV-VDKPTTKMQLEVFLS
+CPS-L-T----------H----S-TVKIKLQQKS-IVSLLKSTG--
+>UniRef100_A0A6 DUF4503 domain-containing protein (Fragment) n=1 Tax=Coregonus sp. 'balchen' TaxID=861768 RepID=A0A6F9A2G0_9TELE
+LCTFSGVIVGVDEDTAYSW--PVCSLCGSDRLEMA--------P---------Q-----K-------------PQAFLCVACDSLVDQPTMNMQLEVFMN
+CST-L-K----------D----C-TVKVKVRQD-------------
+>UniRef100_A0A0 Scaffold protein involved in DNA repair n=1 Tax=Papio anubis TaxID=9555 RepID=A0A096MUU5_PAPAN
+-------------------------MCGNGRLEQR--------P---------E-----D-------------RGAFSCGDCSRVVTSPVLKRHLQVFLD
+CRS-R-P----------Q----C-RVKVKLLQRS-ISSLLRFAAGE
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Sinocyclocheilus grahami TaxID=75366 RepID=UPI0007ACE4F1
+LCTVTGVVVAVDESTAFSW--PTCSRCESCRLATR--------E---------Q-----Q--------------KGFVCLACGAVMDEPIVKMQLEVFLS
+CSS-L-S----------H----C-TIKIKGY--S-VENVLGS----
+>UniRef100_A0A2 DNA repair-scaffolding protein n=1 Tax=Mizuhopecten yessoensis TaxID=6573 RepID=A0A210QEI8_MIZYE
+LCTVSGTVCGVDESSAYSW--DVCDQCGQDKLAQD--------Q---------S-----T--------------KQLVCLECKKVVLEPVTKMKMEVYLS
+VTS-L-C----------S----S-KVSVELLQDS-IEELLPED---
+>UniRef100_A0A8 DNA repair-scaffolding protein isoform X1 n=1 Tax=Clarias magur TaxID=1594786 RepID=A0A8J4U459_CLAMG
+LCTVTGVVTDIDESSAFSW--PVCSRCGGDALEAV--------E---------D-----K-------------QDVFLCVACGVA-DNPCRRMQLEVFLS
+CPS-P-S----------H----W-TVRVK-----------------
+>UniRef100_A0A6 DNA repair-scaffolding protein-like n=1 Tax=Branchiostoma belcheri TaxID=7741 RepID=A0A6P4ZI75_BRABE
+LVQVQGQVLSVDEDTAFSW--PECDTCGNNKLIEQ--------------------------------------GSSLQCPTCDKTVTEPLTRMSLEVYVD
+CPS-L-EK---------S----G-IVKIKLLQDS-IQQLLSNQ---
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Haliotis rubra TaxID=36100 RepID=UPI001EE5813B
+LVSVQGTIGDIDEDAAYSW--EECDGCGSDRLVT---------R---------E-----R-------------DGASKCVKCKQQVISPVIRMEMEVYLK
+SFD-F-K----------D----S-VVRVNLQQST-IEKLLPSEE--
+>UniRef100_A0A9 Uncharacterized protein n=1 Tax=Dreissena polymorpha TaxID=45954 RepID=A0A9D4EEK1_DREPO
+LCQIEGVISEVDEDSAYSW--EACVHCGSDQLKTD--------S---------N-------------------QGGFVCSSCKKTMTEGVTRMKMEVIVV
+CDV-S------------K----C-KAKIDLLQRT-IEKLLPADE--
+>UniRef100_A0A7 DUF4503 domain-containing protein n=1 Tax=Strongylocentrotus purpuratus TaxID=7668 RepID=A0A7M7N6Q5_STRPU
+LVSVTGNICGVEEESAFSW--PACPHCGNNHLDGG--------E---------G-----S-------------GFVLHCSVCNEDINTPVMRMHLIVQLS
+CPA-L-PP---------T----H-SVKVQLLQST-IESVLPCP---
+>UniRef100_A0A8 DNA repair-scaffolding protein n=1 Tax=Hymenochirus boettgeri TaxID=247094 RepID=A0A8T2JCL3_9PIPI
+LCSVTGLITGVNEETAFSW--PVCNICESSKLQRP--------P---------TQESHSS-------------TGSYFCSNCLQYVSIPVIRMHLEVSLH
+CDF-I-P----------G----C-RVKLKLQQET-ISLILKVCT--
+>UniRef100_A0A2 DUF4503 domain-containing protein n=1 Tax=Cryptotermes secundus TaxID=105785 RepID=A0A2J7PQT6_9NEOP
+LVTVTGTVRGVDEETAFVW--PVCGICENDLLIEL------------------------G-------------PNEYLCQKCNSS-SQTSTKMSLEVFIS
+CPE-I-PE---------P----C-KVKVKLQQNS-IVDMLPTSQ--
+>UniRef100_A0A2 DUF4503 domain-containing protein n=2 Tax=Cryptotermes secundus TaxID=105785 RepID=A0A2J7PQS8_9NEOP
+LVTVTGTVSNVDEETAFSW--PVCGICENELLIEL--------G-----------------------------PNEYLCQKCNSS-SQTSTKMSLEVFIS
+CPQ-I-PE---------F----C-KVKVKLQQAS-IVSMLPTSQ--
+>UniRef100_UPI0 uncharacterized protein LOC124619867 isoform X1 n=1 Tax=Schistocerca americana TaxID=7009 RepID=UPI001F4F5608
+LVKVSGCVIGVDEDTAFSW--PTCEICGSDFLSEI------------------------D-------------GGGFYCEKCNQE-TETITAMSLEVNIS
+CVE-V-SE---------E----S-KVKIKLLQKS-IANLLPPEP--
+>UniRef100_A0A0 DUF4503 domain-containing protein n=2 Tax=Scylla olivacea TaxID=85551 RepID=A0A0P4VRV9_SCYOL
+LTLVSGTIIRIDEENAYSW--PACPYCLSSKIQEA--------E---------D--------------------G-VECQWCGQKSSSPGTGYCLEVWLD
+CGPEM-Q----------N----A-DIKVKLYQKT-IEKLLSSCS--
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Lytechinus variegatus TaxID=7654 RepID=UPI001BB29E69
+LVSVTGNICGVEEESACSW--PSCPLCGNNHLDGG--------E---------G-----S-------------GFMLHCLECNKDVSSPVIRMHLVVLLT
+CPN-L-P----------TT---H-AIKVKLLQPT-IESVLPSSS--
+>UniRef100_UPI0 uncharacterized protein LOC126279105 isoform X3 n=1 Tax=Schistocerca gregaria TaxID=7010 RepID=UPI00211EE1D4
+LVKVSGCVIGVDEDTAFSW--PTCEICGSDFLSEI------------------------D-------------GGGFYCEKCNQE-TETITAMSLEVNIS
+CVE-V-SE---------D----S-KIKIKLLQKS-IANLLPPEP--
+>UniRef100_A0A3 Scaffold protein involved in DNA repair n=1 Tax=Paramormyrops kingsleyae TaxID=1676925 RepID=A0A3B3RCG7_9TELE
+------VIVGVDENTAYSW--PTCNLCGSEQLEAD--------P---------A-----G-------------HSGLLCRLCDVLVKEPVLKMQLEVFLS
+CPS-L-S----------Q----S-C---------------------
+>UniRef100_UPI0 DNA repair-scaffolding protein-like isoform X1 n=1 Tax=Priapulus caudatus TaxID=37621 RepID=UPI000719A771
+LVMVSGTIVGADEDTAFSW--PVCNGCGSETLKAD--------P---------T-----G--------------SFLFCETCNRGITEPIIKMKLDVFLD
+LSG-I-VT---------C----S-PVVVQLQQKT-IETVLPPG---
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Ostrea edulis TaxID=37623 RepID=UPI002095E869
+---ISGTVCGVDENSAYSW--DVCDNCQQENLAQD--------S---------N-----T--------------KQLVCLNCKKTVMEPLTRMKLKVYLS
+VTS-S-CEMTSSDHVTQK----M-KVSVELLQTS-IERILPAST--
+>UniRef100_A0A8 DUF4503 domain-containing protein n=1 Tax=Ladona fulva TaxID=123851 RepID=A0A8K0P6X3_LADFU
+VVSITGNVVGVDEETAFSW--PACNMCGNDHLSEV--------KVAGTS----S-----H-------------QPAYQCARCQSLVDKPFTKMSLDAFLA
+CST-L-PPE--------C----C-RIKVK-----------------
+>UniRef100_A0A2 DUF4503 domain-containing protein (Fragment) n=1 Tax=Cryptotermes secundus TaxID=105785 RepID=A0A2J7PQS6_9NEOP
+LVTVTGTVRGVDEETAFVW--PVCGICENDLLIEL------------------------G-------------PNEYLCQKCNSS-SQTSTKMSLEVFIS
+CPE-I-PE---------P----C-KVKVKLQQNS-IVDMLPTSQ--
+>UniRef100_UPI0 uncharacterized protein LOC126195401 n=1 Tax=Schistocerca nitens TaxID=7011 RepID=UPI002117EA38
+LVKVSGCVIGVDEDTAFSW--PTCEICGSDFLSEI------------------------D-------------GGGFYCEKCNKE-TETITAMSLEVKIS
+CVE-V-SE---------E----S-KVKIKLLQKS-ITNLLPPEP--
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Ischnura elegans TaxID=197161 RepID=UPI001ED87CD0
+-VSVVGNVVGVDEETAYTW--PACKFCGNDRLSKS--------HLPSTS----N-----Q-------------LPMYYCFQCKTTVEKPLNKMSLDAYIA
+CNS-L-PSE--------H----C-RIKLKMCQKS-ISELLPEKD--
+>UniRef100_UPI0 uncharacterized protein LOC124802853 n=1 Tax=Schistocerca piceifrons TaxID=274613 RepID=UPI001F5FDAEB
+LVKVSGCVIGVDEDTAFSW--PTCEICGSDFLSEI--------D-----------------------------GGGFYCEKCNQE-TETITAMSLEVNIS
+CVE-V-SE---------E----S-KVKIKLLQKS-IANLLPPEP--
+>UniRef100_A0A8 DUF4503 domain-containing protein n=2 Tax=Owenia fusiformis TaxID=6347 RepID=A0A8S4NG49_OWEFU
+IVSVCGVITGIDESTAYAW--PVCDQCGNERLQAK--------Q---------N-----T-------------R-ELFCLECKCFVLHPVTRMRLDVLVQ
+TK----M----------A----D-IVKVQLLQST-IENLLPTDS--
+>UniRef100_A0A0 DUF4503 domain-containing protein n=1 Tax=Zootermopsis nevadensis TaxID=136037 RepID=A0A067QYC3_ZOONE
+LVTITGTVLHVDEETAFSW--PVCGICENDLLVEL--------G---------H--------------------NQYLCQNCDSS-SHTFTKMSLDIFIL
+CPP-I-PD---------S----C-KVKVKLQQDT-IMNMLPASQ--
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Mercenaria mercenaria TaxID=6596 RepID=UPI00234FAE98
+LCIIKGHISEVDEDSAYSW--EACVHCGSDQLQGD--------S---------S-------------------QGITKCLTCKKTMEEPSTKMKMEVIVT
+CEK-S------------D----I-QAKVDLLQMT-IENLLPAD---
+>UniRef100_A0A2 DUF4503 domain-containing protein (Fragment) n=1 Tax=Micrurus lemniscatus lemniscatus TaxID=129467 RepID=A0A2D4ILP7_MICLE
+-------------------------------------------------------------------------RGLLYCSHCCEVVTSPVFKMHLEIFLN
+CQS-Q-S----------K----G-TVKIKLLQKS-ISSLLESATM-
+>UniRef100_A0A2 DUF4503 domain-containing protein n=1 Tax=Biomphalaria glabrata TaxID=6526 RepID=A0A2C9KR25_BIOGL
+LVTVQGTITSVDDSNAYSW--DECDFCASDRLVTL--------S---------------D-------------TGSIWCKECNRKVELPVVKMKMEVFIQ
+AGN-L-N---------------A-TVKIDLSQRT-IQSLLPRQ---
+>UniRef100_A0A2 Ketohexokinase n=1 Tax=Stylophora pistillata TaxID=50429 RepID=A0A2B4S2Y6_STYPI
+ICRVEGIVLGVDEETACCW--LECATCGSADLVE-------------------R-----T-------------GLPYYCAECNINVQSPQTKTNLEVFVE
+CKS-L-K----------E----A-QVKIKLLQST-IDKLLPVS---
+>UniRef100_A0A6 DUF4503 domain-containing protein n=1 Tax=Paramuricea clavata TaxID=317549 RepID=A0A6S7G7W6_PARCT
+-VMLEGVISGVDHENAFCW--YSCFHCSSEDISEI--------S---------N-----S-------------ISQYHCNACALEFNSPVTNIHLEVYLE
+STS-T-S----------T----F-MVKVKLLQKT-IRNLLSGS---
+>UniRef100_A0A6 Uncharacterized protein LOC113214581 isoform X4 n=1 Tax=Frankliniella occidentalis TaxID=133901 RepID=A0A6J1T8A3_FRAOC
+LAVFSGTIIGVDEDSAFMW--PACGICENELLSLG--------D---------------N-------------SEKYRCEKCNDQCDNFTLRMSLQVLCS
+CPN-L-PS---------N----S-SVRLKLLQKT-IEALLPPAL--
+>UniRef100_A0A8 DNA repair-scaffolding protein-like n=3 Tax=Homarus americanus TaxID=6706 RepID=A0A8J5JKX1_HOMAM
+LAVVSGTIMRVEEESAHHW--PTCSSCKSDKVVEI--------Q---------D--------------------GSVDCSACGQKSTVPGTGYNLEVWLM
+CGLKL-R----------F----I-EVKIQLYQRT-IEKLLQSV---
+>UniRef100_A0A2 Putative DNA repair-scaffolding protein isoform X6 n=1 Tax=Stichopus japonicus TaxID=307972 RepID=A0A2G8LCQ7_STIJA
+LVTLTGTMEGVDQDTAYSW--PECNMCGSNQIEGD--------S---------S-------------------GGKLFCLMCKLEVTSPVTKIQLEVIVR
+SPA-V-PK---------G----N-RIKVLLKQET-VTKLFGDP---
+>UniRef100_A0A7 DUF4503 domain-containing protein (Fragment) n=1 Tax=Timema douglasi TaxID=61478 RepID=A0A7R8VUF0_TIMDO
+IITLTGNVVGVDEDTAFAW--PSCALCNNELLAEL--------P---------G--------------------GRYFCNKCDATI-PTITNMSLAIYVA
+SLL-L-PL---------H----C-SIKVQLTQET-IMGLLTP----
+>UniRef100_A0A6 DUF4503 domain-containing protein n=1 Tax=Paramuricea clavata TaxID=317549 RepID=A0A6S7G7U5_PARCT
+-VMLEGVISGVDHENAFCW--YSCFHCSSEDISEI--------S---------N-----S-------------ISQYHCNACALEFNSPVTNIHLEVYLE
+STS-T-S----------T----F-MVKVKLLQKT-IRNLLSGS---
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Acropora digitifera TaxID=70779 RepID=UPI00077A225A
+IYQVEGEVTGVDEESACCW--LVCDTCGTADITCQ--------Q---------G-----A-------------SPLFFCLLCNVSVKSPQTKTHLEVFVE
+VKS-L-P----------R----A-SVKVALLQST-IDRILPVS---
+>UniRef100_UPI0 DNA repair-scaffolding protein isoform X3 n=1 Tax=Petromyzon marinus TaxID=7757 RepID=UPI0014034D1A
+LCLVQGVIIGVDEENAFSW--LTCDRCGSRQLEKT--------R---------N-----FS------------GEVLQCVPCDAIVLNPAQRTNLSVVLS
+CGS-L-GP---------N----R-CANLKLLEPT-ISKLLPAR---
+>UniRef100_A0A8 LOW QUALITY PROTEIN: DNA repair-scaffolding protein n=1 Tax=Orycteropus afer afer TaxID=1230840 RepID=A0A8B7AID5_ORYAF
+---LNGTVAGVDESTAFSE--PACDQCGNGRLEQS--------P---------E-----HR------------GGDFYWGKCSHVVTSPALRRHLQVFLN
+CPS-R-P----------GSAEEC-PWKV------------------
+>UniRef100_UPI0 uncharacterized protein LOC114532763 n=1 Tax=Dendronephthya gigantea TaxID=151771 RepID=UPI00106C097B
+LVILEGTISGVDKENAFCW--FSCPNCSSECISEP--------Y---------D-----S-------------DSQYQCNSCLWNFNSPVTNMNLEVYIR
+SRS-L-P----------A----L-NPKVKLLQRS-INELLSGSQ--
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Gigantopelta aegis TaxID=1735272 RepID=UPI001B88C0FF
+LVSVSGHIADVDDEASYSW--EVCDQCQSDKLATT--------P---------H-----T--------------HDLFCVKCQKTVSSPVTLLKMEVYVQ
+TTQ-LAS----------N----C-KLKVNLLQST-VKHLLPQSQ--
+>UniRef100_A0A2 DUF4503 domain-containing protein n=2 Tax=Pomacea canaliculata TaxID=400727 RepID=A0A2T7NJB9_POMCA
+LVQISGVIQNIDENSAISW--DECDSCGSNQLGTW--------S---------S-------------------NGTTVCMECKKSVENPVQRMKMDVFVL
+DEN-I-S---------------S-LVKISLLQST-IQQILPEEHD-
+>UniRef100_A0A8 DUF4503 domain-containing protein n=1 Tax=Nephila pilipes TaxID=299642 RepID=A0A8X6UIL5_NEPPI
+FVTVEGEITDVDESSALTW--LQCNLCLHENLVQD--------S---------N--------------------LIIYCEDCSRVVPKPILNVKMEVTLS
+CQC-V-P----------S----I-VVKIQLLSIT-IKSILQIS---
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Cyanistes caeruleus TaxID=156563 RepID=UPI000CDA0C44
+--------------------------------------------------------------------------------------------MQLEVFLS
+CPS-R-S----------Q----S-TVKVKLLQKT-ISSLLMSSASE
+>UniRef100_A0A0 DUF4503 domain-containing protein n=2 Tax=Octopus bimaculoides TaxID=37653 RepID=A0A0L8FHK9_OCTBM
+LVKVQGVIYSIDQDKAVIW--QTCPKCDKEELALK--------K---------NN----E-------------ESWLFCFVCNCQVDDTVTHITMEVIIR
+CLA-L-PG---------N----Y-QVTVNLQQKT-IEGLLPGNN--
+>UniRef100_A0A7 (California timema) hypothetical protein n=1 Tax=Timema californicum TaxID=61474 RepID=A0A7R9P9F6_TIMCA
+----SGNVVGVDEDTAFAW--PSCALCNNELLAEL--------P---------G--------------------GRYFCNKCDATIP-TTTNMSLAIYVA
+SLL-L-PL---------H----C-SIKVQLAN--------------
+>UniRef100_A0A7 DUF4503 domain-containing protein n=1 Tax=Timema monikensis TaxID=170555 RepID=A0A7R9EGP9_9NEOP
+IIMLTGNVVGVDEDTAFAW--PSCALCNNELLAEL--------P---------G--------------------GRYFCNKCDATI-PTITNMSLAIYVA
+SLL-I-PL---------H----C-IIKVQLMQET-IMGLLTPS---
+>UniRef100_UPI0 DNA repair-scaffolding protein isoform X1 n=1 Tax=Aplysia californica TaxID=6500 RepID=UPI00065BC5E4
+LTSVQGTVSDVEKSSACVW--DLCNICGGDQLYNQ--------Q---------------N-------------CDSLWCSVCQQSVLCPVVRMKMVVHVQ
+NAD-L-P----------H----NTVVRVNLLQKS-IESLLPQDR--
+>UniRef100_A0A7 DUF4503 domain-containing protein n=1 Tax=Timema shepardi TaxID=629360 RepID=A0A7R9B6B2_TIMSH
+----SGNVVGVDEDTAFAW--PSCALCNNELLAEL--------P---------G--------------------GRYFCNKCDATIP-TITNMSLAIYVA
+SLL-L-PL---------H----C-SIKVQGY---------------
+>UniRef100_A0A7 DUF4503 domain-containing protein n=1 Tax=Timema cristinae TaxID=61476 RepID=A0A7R9H5E8_TIMCR
+----TGNVVGVDEDTAFAW--PSCALCNNELLAEL--------P---------G--------------------GRYFCNKCDATI-PTITNMSLAIYIA
+SLL-I-PL---------H----C-IIKVQLMQET-IMGLLTPS---
+>UniRef100_A0A7 DUF4503 domain-containing protein n=1 Tax=Timema genevievae TaxID=629358 RepID=A0A7R9K4W2_TIMGE
+----GGNVVGVDEATAFAW--PSCALCNNELLAEL--------P---------D-----R---------------RYFCNKCGATV-PTITNMSLAVYVA
+SLL-L-PL---------H----C-SIKVQLAQET-ILGLLTP----
+>UniRef100_UPI0 uncharacterized protein LOC122381578 n=1 Tax=Amphibalanus amphitrite TaxID=1232801 RepID=UPI001C908CE8
+LVLVSGQVAGVDEQCASVW--PACSECGSDDLADT--------S---------S---------------------GQMCHFCCLPPPSVVNRMELKVEVA
+CPG-L-G----------R----S-RVFVQLLQST-IESLLGRSS--
+>UniRef100_A0A8 DUF4503 domain-containing protein n=1 Tax=Trichonephila clavata TaxID=2740835 RepID=A0A8X6L0V3_TRICU
+-VTVKGEVTDVDESSALTW--LQCNLCLHENLVQD--------S-----------------------------NLVIYCEDCSRVVPKPILNVKMEVTLS
+CIC-V-P----------S----I-IVQIQLLSTT-VKRILQI----
+>UniRef100_R7V8 DUF4503 domain-containing protein n=1 Tax=Capitella teleta TaxID=283909 RepID=R7V8E5_CAPTE
+LVLISGTICDVDEAGSYSW--NECNYCQSENLIEK--------L---------Q-----GN------------FTELFCTKCDKLVEDPITRISMEVIVK
+VKG-Y-K---------------D-TCQIKLVQKT-SERLLLN----
+>UniRef100_A0A6 DUF4503 domain-containing protein n=1 Tax=Sinocyclocheilus rhinocerous TaxID=307959 RepID=A0A673LL14_9TELE
+-------------------------------------------------------------------------RKGFLCLACGAVMDEPTTKMELEVFLS
+CSS-L-S----------H----C-TVKIKVRSDS-FM---------
+>UniRef100_A0A4 DUF4503 domain-containing protein n=1 Tax=Elysia chlorotica TaxID=188477 RepID=A0A433TGL0_ELYCH
+-VSLQGCVHKVDEESACML--EECCVCGSDLIVP-------------------------D-------------FGPMHCTVCNENVLKSVSVMRMAAFLT
+CSD-F-DPK--------E----T-VVKVQLAQKT-IEKILPAEV--
+>UniRef100_A0A4 DNA repair-scaffolding protein-like isoform X7 n=1 Tax=Physeter macrocephalus TaxID=9755 RepID=A0A455AZW8_PHYMC
+ICSVQGFVECVDESTACSW--PACDLCGGERLGRR--------P---------E-----D----------------------------------------
+----------------------------------------------
+>UniRef100_A0A4 DNA repair-scaffolding protein-like isoform X5 n=1 Tax=Physeter macrocephalus TaxID=9755 RepID=A0A455B276_PHYMC
+ICSVQGWVVAVDESTACSW--PACDLCGGERLGRR--------P---------E-----D----------------------------------------
+----------------------------------------------
+>UniRef100_A0A0 DUF4503 domain-containing protein (Fragment) n=1 Tax=Stegodyphus mimosarum TaxID=407821 RepID=A0A087TB51_STEMI
+----------------MSW--LECSFCFKDNLIQD--------Y---------N-----S---------------VIYCEDCSHIVPKPILNVKMEVVIC
+DQN-V-P----------S----S-ILKIQLSPST-VKSILQIS---
+>UniRef100_A0A7 DUF4503 domain-containing protein n=1 Tax=Clytia hemisphaerica TaxID=252671 RepID=A0A7M5XKI4_9CNID
+LVKITGRVCGIDEKTALFW--ITCTQCGCNELDHV--------E-----------------------------RNYYYCKDCKANVAC-EIKIQLDVFLY
+NSS-M-P----------N----D-SILCKLLDDS-ITELLPMKD--
+>UniRef100_A0A0 Pfam-B_7674 domain containing protein n=1 Tax=Echinococcus granulosus TaxID=6210 RepID=A0A068WP51_ECHGR
+LITMSGVVMDVDSSSSQVW--PLCPGCLSDALKQK--------A---------S-----TSNPS---------TTHLECSRCQAKIDRPFHAVEVVVELQ
+SDK-V-Q----------Q----R-RFKVCILPSC-LAEMLKL----
+>UniRef100_A0A4 DUF4503 domain-containing protein n=1 Tax=Araneus ventricosus TaxID=182803 RepID=A0A4Y2FR58_ARAVE
+--FITGEVVGVDENNALSW--LQCNLCLGENLVQD--------S-----------------------------NLVIYCENCFQVVPKPVLNVKMSVICQ
+CS----P----------H----V-KAEVELLSRT-TKRILQI----
+>UniRef100_A0A1 DNA repair-scaffolding protein-like n=1 Tax=Carlito syrichta TaxID=1868482 RepID=A0A1U7SZ82_CARSF
+VCAVRG-LYGLFEDTAFSW--PVCDQCDNGRLEQR--------P---------E-----D----------------------------------------
+----------------------------------------------
+>UniRef100_A0A8 DUF4503 domain-containing protein n=2 Tax=Cloeon dipterum TaxID=197152 RepID=A0A8S1CDL7_9INSE
+LVLVKGTICGVDEDNSCAW--PVCSNCGGESLDDL--------P---------N-----D---------------VMCCLDCHSE-GPFSNKVALSVYIS
+-PS-R-GYNCSKDD---S----T-KILIKLLQSA-SESILPLG---
+>UniRef100_A0A0 DUF4502 domain-containing protein n=1 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A060VUX9_ONCMY
+----------ESRAAGPAP--SFCYLLSGQESSVE--------P---------T-----E-------------GSTLSPLYCPPHHQTLRDILQVEGFLR
+CHS-F-S----------N----C-TMYASLLSRP-DMTILRAAEV-
+>UniRef100_UPI0 uncharacterized protein LOC111617760 n=1 Tax=Centruroides sculpturatus TaxID=218467 RepID=UPI000C6D838E
+-VNINGYIIGIDG-KMLSW--MECNLCQKSQLTTK--------------------------------------NEMIVCDICQTTLENPVTKYSMEVFII
+DS----N----------N----Q-EVKVKLHDST-IKNMFSH----
+>UniRef100_A0A5 DUF4503 domain-containing protein n=1 Tax=Mesocestoides corti TaxID=53468 RepID=A0A5K3EQ74_MESCO
+-ITTSGVVVGVDSSASQVW--PLCPGCLSDELKHP--------L---------D-----KVA-----------ATALECSRCQAKIDKPFHAMEVVVELG
+VD--------------------------------------------
+>UniRef100_A0A3 Replication factor A C-terminal domain-containing protein n=1 Tax=Candidatus Korarchaeota archaeon NZ13-K TaxID=1868214 Re                                                    
+pID=A0A369T3T6_9ARCH
+--EVRGTVIYVSDSARISW---YCPKCGARVSYE---------------------------------------YGRFICPNCGEV-EEAEPLLSFSITID
+DGT-------------------G-VARVVFFRD-------------
+>UniRef100_A0A3 DUF4503 domain-containing protein n=1 Tax=Mesocestoides corti TaxID=53468 RepID=A0A3P6HNV5_MESCO
+-ITTSGVVVGVDSSASQVW--PLCPGCLSDELKHP--------L---------D-----KVA-----------ATALECSRCQAKIDKPFHAMEVVVELG
+VD--------------------------------------------
+>UniRef100_A0A6 DUF4503 domain-containing protein n=1 Tax=Ephemera danica TaxID=1049336 RepID=A0A6L5C9K4_9INSE
+LVTVEGAIKNVDENSACVW--PVCGACSSEVLREV--------D---------E-----N-------------SQSLECVLCGSRGPFP-NNVALTVELN
+LP--------------------G-HVKVKTY--D-IESVLD-----
+>UniRef100_A0A0 Uncharacterized protein n=1 Tax=Opisthorchis viverrini TaxID=6198 RepID=A0A074ZG79_9TREM
+FVRFSGIINRVSTSRSHTW--PICPYCYSSDLEIQ--------SGTENTQK--S-----K-------------QESLKCRRCLNALSEPLQLFELEVQVQ
+LNF-------------------------------------------
+>UniRef100_W6V1 DUF4503 domain-containing protein n=1 Tax=Echinococcus granulosus TaxID=6210 RepID=W6V1I2_ECHGR
+-ITMAGTVMDVDSSSSQVW--PLCTGCLSDALKQK--------A---------S-----TSNPS---------TTHLECSRCEARIDRPFHAVEIFVEVT
+-DK-V-Q----------Q----R-RFKVCILPSC-FAEMMK-----
+>UniRef100_A0A4 DUF4503 domain-containing protein n=1 Tax=Armadillidium vulgare TaxID=13347 RepID=A0A444T7K7_ARMVU
+IVSVQGFIKKINTDTSLVW--EECNICGTFDLHSI--------T---------K-----D---------------NMKCRTCLTENITAVRKYSLEAEIH
+TNN-V-D----------NEK--A-ITVVKLYQTT-IKNLLKGFN--
+>UniRef100_UPI0 DNA repair-scaffolding protein-like n=1 Tax=Mizuhopecten yessoensis TaxID=6573 RepID=UPI000B457B56
+-CKAIARVRGVDESSAYSW--DVCNYCGSDKLIT------------------------------------------------------------------
+----------------------------------------------
+>UniRef100_A0A1 DUF4503 domain-containing protein n=1 Tax=Schistosoma margrebowiei TaxID=48269 RepID=A0A183M7B1_9TREM
+IVSFSGTLIHVDTSRSHVW--SICPYCACADFEIY--------SDVDNKVKYFS-----K-------------QENLKCVRCLALLSNPLERLETEVQVL
+----------------------------------------------
+>UniRef100_A0A0 60S ribosomal protein L8 n=1 Tax=Taenia asiatica TaxID=60517 RepID=A0A0R3WC08_TAEAS
+LVTMEGTVLEVDSSSSQVW--PLCTGCLSDALKQK--------V---------P-----SAKPP---------NAHLECSRCQARIDRPFHAVEIFVEVI
+-DT-V-Q----------Q----Q-RFKVCILPSC-FAEI-------
+>UniRef100_A0A1 DUF4503 domain-containing protein n=1 Tax=Schistosoma rodhaini TaxID=6188 RepID=A0A183QZU2_9TREM
+IVSFSGTLIHVDTSRSHVW--SICPYCACADFEIY--------SGVDNKVKYFS-----K-------------QENLKCVRCLALLSNPLERLETEVQVL
+INF-------------------------------------------
+>UniRef100_A0A1 DUF4503 domain-containing protein n=1 Tax=Rodentolepis nana TaxID=102285 RepID=A0A158QI89_RODNA
+----SSVITNVDSSKSQVW--SLCPGCLLDSLEET--------VRSSENSN--G-----S-------------SSTFQCSRCQAKCDRPFRAVEIVVEMT
+HTN-Q-K----------R----I-SFKVSILPSY-LAALLKIAE--
+>UniRef100_A0A5 DUF4503 domain-containing protein (Fragment) n=1 Tax=Armadillidium nasatum TaxID=96803 RepID=A0A5N5SKB2_9CRUS
+IVSVQGFIKNVNTDTSLVW--EECNICGNFDLHSI--------T---------K-----D---------------NIKCRTCLTENITAVRKYSLEAEIH
+TNN-V-D---------------------------------------
+>UniRef100_A0A3 Uncharacterized protein n=1 Tax=Dibothriocephalus latus TaxID=60516 RepID=A0A3P7N4A3_DIBLA
+----TGTIVSVDSECSQLW--PLCASCLSDDLEPC--------P---------L-----DPGSHLQVQSTSTSKDALLCGRCLARLCRPYYAVEVIVEVQ
+FD--------------------------------------------
+>UniRef100_A0A1 DUF4503 domain-containing protein n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A1I8FSX0_9PLAT
+-------VTVVHKEDAYAW--PVCPICFACRLELADPSSTSTAP---------T-----H-------------RQKRVCGRCGTACDKALLTRRLEVSVR
+CDP-D-----------------------------------------
+>UniRef100_K4Z6 Small CPxCG-related zinc finger protein n=3 Tax=Paenibacillus alvei TaxID=44250 RepID=K4Z6U8_PAEA2
+------MLSGVEEAWVTDW--YECPSCGSESIER----------------------------------------SFLYCPYCQVML--------------
+----------------------------------------------
+>UniRef100_A0A8 Zinc ribbon domain-containing protein n=1 Tax=Candidatus Helarchaeota archaeon TaxID=2719382 RepID=A0A850MDU0_9ARCH
+----------QSDSDSYSV--PRCPHCGKFLLYP----------------------------------------NERFCPHCGKPLG-------------
+----------------------------------------------
+>UniRef100_A0A8 DUF4503 domain-containing protein n=1 Tax=Fasciolopsis buski TaxID=27845 RepID=A0A8E0VP33_9TREM
+---VSGVVSQVHTKRSHTW--PVCAYCQCANLRSS--------T---------R-----DP------------RGSLYCQRCGRCLDQ------------
+----------------------------------------------
+>UniRef100_A0A1 DUF4503 domain-containing protein n=1 Tax=Schistosoma curassoni TaxID=6186 RepID=A0A183JJS3_9TREM
+---YAGTLIHVDTSRSHVW--SICPYCACADFEIY--------SGVDNKVKYFS-----K-------------QENLKCVRCLALLSNPLERLETEVQVL
+----------------------------------------------
+>UniRef100_U6GW Replication protein A large subunit, related n=1 Tax=Eimeria acervulina TaxID=5801 RepID=U6GWQ8_EIMAC
+-------------DDRFSW--PACPECRKKMQQQE--------G---------D-----A-------------SSVWRCSSCSKEFEAPVETYLLQLTLV
+D-----E----------T----G-SLKVSLIGEK-AEVIL------
+>UniRef100_A0A6 TFIIB-type zinc ribbon-containing protein n=1 Tax=Archaeoglobales archaeon TaxID=2250258 RepID=A0A662W926_9EURY
+-----------------TW--LICPICGSDQVAKV--------A---------T-----D-------------PNLYLCKSCKKKIK-------------
+----------------------------------------------
+>UniRef100_A0A3 Lysine biosynthesis protein LysW n=1 Tax=Methanocalculus sp. MSAO_Arc2 TaxID=2293855 RepID=A0A3R7XDX6_9EURY
+--------IEIDHSSAYFW---LCPHCGDECYPLE--------P---------D-----V-------------AVVIVCETCGESF--------------
+----------------------------------------------
+>UniRef100_A0A8 Uncharacterized protein n=1 Tax=Mesobacillus selenatarsenatis TaxID=388741 RepID=A0A846TJT0_9BACI
+----------IEPETKETN--IRCPRCGSRLLETS--------Q---------S-----D---------------NLYCPSCEDEID-------------
+----------------------------------------------
+>UniRef100_A0A2 Uncharacterized protein (Fragment) n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A267F4Q7_9PLAT
+-------VTVVHKEDAYAW--PVCPICFACRLELADPSSTSTAP---------T-----H-------------RQKRVCGRCGTACDKALLTRRLEVSVR
+CDP-D-----------------------------------------
+>UniRef100_A0A9 FPG-type domain-containing protein n=1 Tax=Candidatus Sungbacteria bacterium TaxID=2750080 RepID=A0A931WP07_9BACT
+---------------LYSWMGEPCPRCGAKIKRIV--------I---------A-----Q-------------RGAHYCPKCQR----------------
+----------------------------------------------
+>UniRef100_A0A0 TFIIB-type domain-containing protein n=1 Tax=marine sediment metagenome TaxID=412755 RepID=A0A0F9KJ93_9ZZZZ
+----------------LDW--VVCPHCGNVQEEDC--------D---------N--------------------DSFICNECDEI---------------
+----------------------------------------------
+
+#Filter alignment to include the most divers 30 sequences only.
+
+(base) kensch@kbf-linux01:~$ hhfilter -i "/home/kensch/Alignments/A3M files/OB_fold/SPIDR_OB3_2.a3m" -o query.fil.a3m -diff 30
+
+- 13:47:57.386 INFO: Input file = /home/kensch/Alignments/A3M files/OB_fold/SPIDR_OB3_2.a3m
+
+- 13:47:57.386 INFO: Output file = query.fil.a3m
+
+#Trim filtered alignment and remove all inserts with with respect to the first, master sequence in the MSA. Make file query.fil.fas.
+
+(base) kensch@kbf-linux01:~$ #Trim filtered alignment and remove all inserts with with respect to the first, master sequence in the MSA. M                                                    
+ake file query.fil.fas.
+
+(base) kensch@kbf-linux01:~$ /home/kensch/"hh-suite"/scripts/reformat.pl -r query.fil.a3m query.fil.fas
+
+Reformatted query.fil.a3m with 42 sequences from a3m to fas and written to file query.fil.fas
+
+#Save filtered, trimmed SPIDR_OB3  alignment.
+
+(base) kensch@kbf-linux01:~$ mv query.fil.fas "/home/kensch/Alignments/A3M files/OB_fold/SPIDR_OB3_filtered30_trimmed.fas"
+
+(base) kensch@kbf-linux01:~/Alignments/A3M files/OB_fold$ ls
+SPIDR_OB3_2.a3m  SPIDR_OB3.a3m  SPIDR_OB3_filtered30_trimmed.fas
+
+#Show filtered and trimmed SPIDR_OB3 query alignment "SPIDR_OB3_filtered_trimmed.a3m".       
+                     
+(base) kensch@kbf-linux01:cat SPIDR_OB3_filtered30_trimmed.fas
+>SPIDR_OB3
+ICSVQGTVVGVDESTAFSWPVCDMCGNGRLEQRPEDRGAFSCGDCSRVVTSPVLKRHLQVFLDCRSRPQCRVKVKLLQRSISSLLRFAAGE
+>UniRef100_A0A8D1NZI6 Scaffold protein involved in DNA repair n=1 Tax=Sus scrofa TaxID=9823 RepID=A0A8D1NZI6_PIG
+TCSVQGSVVAVDESTAFSWPVCDLCGSERLERSPED----RHSTHGQTAEPGLLLTCFRTWVSGRECSTLSRQTLKCRKCLSTARPLCSVP
+>UniRef100_UPI000B50380A DNA repair-scaffolding protein isoform X5 n=1 Tax=Aotus nancymaae TaxID=37293 RepID=UPI000B50380A
+ICSVQELRSQECPRKGGGVVKLFCPVRNHPPHELHRIGGNRASECRRGLCRTPAEAAGSVNSAVWPRGCGCWSFGAVIC------------
+>UniRef100_UPI00193FE021 DNA repair-scaffolding protein isoform X2 n=1 Tax=Mauremys reevesii TaxID=260615 RepID=UPI00193FE021
+ICTIRAIYSSAVAFKQTKYEKLFLLHVSLHHSLWSGINARYLPPHTF----QHLEEKKSTFMFLCKLKHIIVKMKSYF-------------
+>UniRef100_UPI001E272596 DNA repair-scaffolding protein isoform X5 n=1 Tax=Pipistrellus kuhlii TaxID=59472 RepID=UPI001E272596
+ICSVQGLRSG-----------------ERHREGAGA-----------------------AKLFCPVRGHPPGPLPGAGGDRAAGCGQASGT
+>UniRef100_UPI00209FEF74 DNA repair-scaffolding protein isoform X1 n=1 Tax=Lagopus muta TaxID=64668 RepID=UPI00209FEF74
+ICAVR----AATKNNLFSPDVCCQCGWELRGEQRQGAGPAALPPARRRRAARLLAAGGGGAAARGTRRGERLNGSAVMQGGGGVEKGGRQT
+>UniRef100_A0A8C5ST71 CST complex subunit CTC1 n=1 Tax=Laticauda laticaudata TaxID=8630 RepID=A0A8C5ST71_LATLA
+ICTVRGTVVDINERTAFSWPICNRCGNEKIDQHQQD--------------NDLRRRR----TSCHAYSTMSLSIVFFLS------------
+>UniRef100_UPI000D09BB7F DNA repair-scaffolding protein isoform X9 n=1 Tax=Pan troglodytes TaxID=9598 RepID=UPI000D09BB7F
+ICSVQ----------ELRSEECPRKGSGVVKNRPPDQLHWIGGNRASECRRGLCRTL--------AVAAGSVNFAMWLQGWWWWWW-----
+>UniRef100_UPI00147BAEBF DNA repair-scaffolding protein isoform X2 n=1 Tax=Pangasianodon hypophthalmus TaxID=310915 RepID=UPI00147BAEBF
+LCTVTEMYFHVLHAESWT-SQAERCSSKCSSAVPLQVTGLS-------------KLSYSKTPSCPS-------------------------
+>UniRef100_UPI0014258B57 DNA repair-scaffolding protein-like isoform X2 n=1 Tax=Anneissia japonica TaxID=1529436 RepID=UPI0014258B57
+-VSVQGKIIGVDESSAYHWPLCEQCGSDKLHAVASLNETFYCEVCQQNFVSTATRMFLEVYIKCESVEKAQIKLQLQQLSIERILP-----
+>UniRef100_A0A8T2PWX6 DUF4503 domain-containing protein (Fragment) n=1 Tax=Albula glossodonta TaxID=121402 RepID=A0A8T2PWX6_9TELE
+LCTVQGVVIGVDEDTAYSWPVCNLCGSDQLEAMHEDCQGTVKIKGYTVENVLGKELPLTAYVRVVTRK-PTLWVGLEEVSLSEGYSNEA--
+>UniRef100_A0A5A9N378 DNA repair-scaffolding protein n=1 Tax=Triplophysa tibetana TaxID=1572043 RepID=A0A5A9N378_9TELE
+--------------------PADSTNPTALALHSHR-EGFQCLMCGAMMDEPNTKMRLDVFVCCPSMRHCTVKVKLQQKTITSLLNSTQS-
+>UniRef100_A0A8B8F310 Uncharacterized protein LOC111138499 isoform X1 n=2 Tax=Crassostrea virginica TaxID=6565 RepID=A0A8B8F310_CRAVI
+LCTLSGTLCGVDSKSAVCLKVCDQCERDDLIGIVETK-QLLCPHCHKIVECPVPKLSLRVTLSVAPSGGTTVSVKLLHDSVQELLPDT---
+>UniRef100_A0A2B4S2Y6 Ketohexokinase n=1 Tax=Stylophora pistillata TaxID=50429 RepID=A0A2B4S2Y6_STYPI
+IYRME---------DLDIVNTCERYPNEDEDVR-AISQLWQTGACN-------TSTVLAGL---------GIDCELFGTPQADFLC-----
+>UniRef100_A0A6P9ADE1 Uncharacterized protein LOC117654155 n=1 Tax=Thrips palmi TaxID=161013 RepID=A0A6P9ADE1_THRPL
+-ATFFGTVVGVDEETAYMWPACGVCENELLSLG-DGTEMYRCEKCNNQCDNFNMHMSLQVLCSCANLPSSSIRLKLHQSTIESMLPPTL--
+>UniRef100_UPI00106C097B uncharacterized protein LOC114532763 n=1 Tax=Dendronephthya gigantea TaxID=151771 RepID=UPI00106C097B
+--ILEGTISGVDKENAFCWFSCPNCSSECISEPYDSDSQYQCNSCLWNFNSPVTNMNLEVYIRSRSLPALNPKVKLLQRSINELLSG----
+>UniRef100_A0A8X6UIL5 DUF4503 domain-containing protein n=1 Tax=Nephila pilipes TaxID=299642 RepID=A0A8X6UIL5_NEPPI
+-VTIKGEITDVDESSALTWLQCNLCLHENLVQDSN--LIIYCLDCSQVVPKPILNVKMEVTLSCSCLPSIVVHIQLLSITIKRILQI----
+>UniRef100_UPI001C438B4F uncharacterized protein LOC121877615 n=1 Tax=Homarus americanus TaxID=6706 RepID=UPI001C438B4F
+-AVVSGTIMRVEEESAHHWPTCSSCKSDKVVEIQDG--SVDCSACGQKSTVPGTGYNLEVWLMYGLKLFIEVKIQLYQRTIEKLLQSV---
+>UniRef100_A0A7T8KHP2 Zinc finger and BTB domain containing 42 putorius n=1 Tax=Caligus rogercresseyi TaxID=217165 RepID=A0A7T8KHP2_CALRO
+---------------SSPFPTCDLCGRDKKEIHEGLRGLFTCGDCGQEFSR----------------------------------------
+>UniRef100_A0A176QBS4 Insertion element protein n=1 Tax=Janibacter melonis TaxID=262209 RepID=A0A176QBS4_9MICO
+--------------------HCPFCAEQDLRPAPKPSGAWVCGSCVRVFSVTLHGSDRG--------------------------------
+>UniRef100_A0A852X9J7 Ribosomal protein L37AE/L43A n=1 Tax=Janibacter alkaliphilus TaxID=1069963 RepID=A0A852X9J7_9MICO
+--------------------HCPYCGEDDLRPVAEPAGAWACGSCVRVFTVTMHRTDTD--------------------------------
+>UniRef100_A0A6P7SMW4 DNA repair-scaffolding protein isoform X1 n=2 Tax=Octopus vulgaris TaxID=6645 RepID=A0A6P7SMW4_OCTVU
+LVKVQGVIYSVDQDKAVIWQTCPKCDKEELALKKNNESWLFCFVCNCQVDDTVTHITMEVIIRCLALPNYQVTVNLQQKTIEGLLPGNN--
+>UniRef100_A0A812CFH3 SPIDR n=1 Tax=Sepia pharaonis TaxID=158019 RepID=A0A812CFH3_SEPPH
+LFKVQGVIYSVDHKTAVTWEMCPYCDEEQLAYRQNQDKVLVCLNCDVQVEESVTHINLEVILRCLSLPHYEVRVNLLQPTVESLLPNED--
+>UniRef100_R7V8E5 DUF4503 domain-containing protein n=1 Tax=Capitella teleta TaxID=283909 RepID=R7V8E5_CAPTE
+-VLISGTICDVDEAGSYSWNECNYCQSENLIEKLQGFTELFCTKCDKLVEDPITRISMEVIVKVKGYK-DTCQIKLVQKTSERLLLN----
+>UniRef100_A0A433TGL0 DUF4503 domain-containing protein n=1 Tax=Elysia chlorotica TaxID=188477 RepID=A0A433TGL0_ELYCH
+-VSLQGCVHKVDEESACMLEECCVCGSDLIVP---DFGPMHCTVCNENVLKSVSVMRMAAFLTCSDFDETVVKVQLAQKTIEKILPAE---
+>UniRef100_A0A8S1CDL7 DUF4503 domain-containing protein n=2 Tax=Cloeon dipterum TaxID=197152 RepID=A0A8S1CDL7_9INSE
+LVLVKGTICGVDEDNSCAWPVCSNCGGESLDDLPND--VMCCLDCHSEG-PFSNKVALSVYIS-PSRGSTKILIKLLQSASESILPLG---
+>UniRef100_A0A674NT78 Scaffold protein involved in DNA repair n=1 Tax=Takifugu rubripes TaxID=31033 RepID=A0A674NT78_TAKRU
+-----------TRAAGSAPSFCYLLSGLESSVQPAEGPPLSPLYCPPHHAELRRHPAGELFLRLKTSAFSTLLSRLLSFPLQTDLKSFR--
+>UniRef100_A0A8C5A177 Scaffold protein involved in DNA repair n=1 Tax=Gadus morhua TaxID=8049 RepID=A0A8C5A177_GADMO
+----------------AAPCFYYLLSGQGDSVEALEGSALSALYLPPKEMPLRDVLRSAGGVRCHSFTATVVYASILSTPDHSTLR-----
+>UniRef100_A0A564YKQ3 DUF4503 domain-containing protein n=2 Tax=Hymenolepis diminuta TaxID=6216 RepID=A0A564YKQ3_HYMDI
+-IEMSGVITRVDSAKSQVWPLCPGCLLDNLEETVRSSSTLQCSRCQAKCGRPFRAVEVVIELTSVDQKGSTFKVSILPSYLAKLLK-----
+>UniRef100_A0A444T7K7 DUF4503 domain-containing protein n=1 Tax=Armadillidium vulgare TaxID=13347 RepID=A0A444T7K7_ARMVU
+IVSVQGFIKKINTDTSLVWEECNICGTFDLHSITKD--NMKCRTCLTENITAVRKYSLEAEIHTNNVDNAITVVKLYQTTIKNLLKG----
+>UniRef100_A0A3R7CG35 Uncharacterized protein n=2 Tax=Clonorchis sinensis TaxID=79923 RepID=A0A3R7CG35_CLOSI
+-IRFEGIINRVSTSRSHTWPLCNHCYSADLVIQCADPISLRCRRCSNALDEALQLFEVEVGIQLE--------------------------
+>UniRef100_A0A662W926 TFIIB-type zinc ribbon-containing protein n=1 Tax=Archaeoglobales archaeon TaxID=2250258 RepID=A0A662W926_9EURY
+-----------------TWLICPICGSDQVAKVATDPNLYLCKSCKKKIK-----------------------------------------
+>UniRef100_A0A1I8G677 CST complex subunit CTC1 n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A1I8G677_9PLAT
+-------VTVVHKEDAYAWPVCPICFACRLELAPTHRQKRVCGRCGTACDKALLTRRLEVSVRCDPD------------------------
+>UniRef100_A0A846TJT0 Uncharacterized protein n=1 Tax=Mesobacillus selenatarsenatis TaxID=388741 RepID=A0A846TJT0_9BACI
+----------IEPETKETNIRCPRCGSRLLETSQSD--NLYCPSCEDEID-----------------------------------------
+>UniRef100_A0A2T7NJB9 DUF4503 domain-containing protein n=2 Tax=Pomacea canaliculata TaxID=400727 RepID=A0A2T7NJB9_POMCA
+LVQISGVIQNIDENSAISWDECDSCGSNQLGTWSS-NGTTVCMECKKSVENPVQRMKMDVFVLDENIS-SLVKISLLQSTIQQILPEEH--
+>UniRef100_A0A430QP48 DUF4503 domain-containing protein n=1 Tax=Schistosoma bovis TaxID=6184 RepID=A0A430QP48_SCHBO
+IVSFSGTLIHVDTSRSHVWSICPYCACADFEIYSSKQENLKCVRCLALLSNPLERLETEVQVLINF-------------------------
+>UniRef100_U6GWQ8 Replication protein A large subunit, related n=1 Tax=Eimeria acervulina TaxID=5801 RepID=U6GWQ8_EIMAC
+-------------DDRFSWPACPECRKKMQQQEGDASSVWRCSSCSKEFEAPVETYLLQLTLVD---ETGSLKVSLIGEK-----------
+>UniRef100_A0A369T3T6 Replication factor A C-terminal domain-containing protein n=1 Tax=Candidatus Korarchaeota archaeon NZ13-K TaxID=1868214 RepID=A0A369T3T6_9ARCH
+--EFRGTVVGVSDEARISW-HCPTCGSRVSYE----YGGYSCPNCGRI-EEAKPLLYLTLTLD----------------------------
+>UniRef100_A0A497J1R3 DUF2240 family protein n=1 Tax=Candidatus Korarchaeota archaeon TaxID=2056630 RepID=A0A497J1R3_9ARCH
+--EVRGTVIRIDPSATISW-WCKKCRQRVSKE----FGRFLCENCGEV-REAEPVLAFSIYVD----------------------------
+>UniRef100_A0A662T3H1 Cell division control protein 24 OB domain-containing protein n=3 Tax=Candidatus Korarchaeota archaeon TaxID=2056630 RepID=A0A662T3H1_9ARCH
+--QIRGTIIKASDSVSIIH-LCTNCGQKLTLE----YGKLRCQICGLR-EDSDILLVLPIVID----------------------------
+>UniRef100_A0A3R7XDX6 Lysine biosynthesis protein LysW n=1 Tax=Methanocalculus sp. MSAO_Arc2 TaxID=2293855 RepID=A0A3R7XDX6_9EURY
+--------IEIDHSSAYFW-LCPHCGDECYPLEPDVAVVIVCETCGESF------------------------------------------
+>UniRef100_A0A0F9VST5 C2H2-type domain-containing protein n=1 Tax=marine sediment metagenome TaxID=412755 RepID=A0A0F9VST5_9ZZZZ
+----------------LDWVVCPHCGNVQEEDCDN--DSFICNECDEI-------------------------------------------
+
